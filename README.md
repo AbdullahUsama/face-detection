@@ -35,7 +35,7 @@ To run this project, you need to have Python installed along with the required l
 To run the face detection and blurring application, execute the following command:
 
 ```sh
-python face_detection.py
+python face-detection.py
 ```
 Press q to quit the application.
 
