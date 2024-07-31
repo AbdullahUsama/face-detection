@@ -15,14 +15,14 @@ To run this project, you need to have Python installed along with the required l
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/face-detection-blur.git
-    cd face-detection-blur
+    git clone https://github.com/AbdullahUsama/face-detection.git
+    cd face-detection
     ```
 
 2. Create a virtual environment (optional but recommended):
     ```sh
-    python -m venv venv
-    On Windows use `venv\Scripts\activate`
+    python -m venv venv-name
+    On Windows use `venv-name\Scripts\activate`
     ```
 
 3. Install the required libraries:
@@ -35,7 +35,7 @@ To run this project, you need to have Python installed along with the required l
 To run the face detection and blurring application, execute the following command:
 
 ```sh
-python face_detection_blur.py
+python face_detection.py
 ```
 Press q to quit the application.
 
